@@ -1,1 +1,2 @@
 Wojciech Kieloch
+Stos wywołań
